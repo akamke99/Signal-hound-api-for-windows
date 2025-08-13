@@ -50,5 +50,4 @@ Que el driver esté instalado en el Administrador de Dispositivos.
 Que sa_api.dll y ftd2xx.dll estén accesibles por el script.
 
 📚 Documentación oficial
-Signal Hound API Documentation
-
+https://signalhound.com/sigdownloads/SDK/online_docs/sa_api/index.html
