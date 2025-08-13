@@ -6,9 +6,7 @@ Sistema Operativo: Windows 10 o Windows 11
 
 Signal Hound API: sa_api.dll (librería principal de control)
 
-Driver USB FTDI: CDM v2.12.00 WHQL Certified.exe
-
-FTDI DLL: ftd2xx.dll (debe estar en el mismo directorio que sa_api.dll)
+Driver USB FTDI: CDM v2.12.00 WHQL Certified.exe (deberian estar por defect en windows)
 
 Python: 3.x
 
